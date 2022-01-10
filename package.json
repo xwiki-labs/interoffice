@@ -1,0 +1,15 @@
+{
+  "name": "interoffice",
+  "version": "1.0.0",
+  "description": "client-side conversions of popular office file formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "conversion",
+    "format"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0"
+}
